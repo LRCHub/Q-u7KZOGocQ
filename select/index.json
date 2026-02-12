@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "jabber",
+  "base_artist": "muque",
+  "createdAt": "2026-02-12T10:14:37.740884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jabber",
+      "artist": "Blue Foundation",
+      "has_synced": true,
+      "path": "select/01_Jabber_Blue_Foundation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "History (feat. MC Jabber)",
+      "artist": "Blue Foundation",
+      "has_synced": true,
+      "path": "select/02_History_(feat._MC_Jabber)_Blue_Foundation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jibber Jabber",
+      "artist": "Tipper",
+      "has_synced": false,
+      "path": "select/03_Jibber_Jabber_Tipper.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stuck in a Hard Place (feat. MC Jabber)",
+      "artist": "Blue Foundation",
+      "has_synced": true,
+      "path": "select/04_Stuck_in_a_Hard_Place_(feat._MC_Jabber)_Blue_Foundation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Distant Dreams (Voices) [feat. MC Jabber]",
+      "artist": "Blue Foundation",
+      "has_synced": true,
+      "path": "select/05_Distant_Dreams_(Voices)_[feat._MC_Jabber]_Blue_Foundation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Equlibrium (feat. MC Jabber)",
+      "artist": "Blue Foundation",
+      "has_synced": false,
+      "path": "select/06_Equlibrium_(feat._MC_Jabber)_Blue_Foundation.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jabber",
+      "artist": "Machinations",
+      "has_synced": false,
+      "path": "select/07_Jabber_Machinations.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jibber Jabber",
+      "artist": "Horsemeat",
+      "has_synced": false,
+      "path": "select/08_Jibber_Jabber_Horsemeat.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "End of the Century (featuring MC Jabber)",
+      "artist": "Lulu Rouge",
+      "has_synced": true,
+      "path": "select/09_End_of_the_Century_(featuring_MC_Jabber)_Lulu_Rouge.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stuck in a Hard Place (feat. MC Jabber)",
+      "artist": "Blue Foundation, MC Jabber",
+      "has_synced": true,
+      "path": "select/10_Stuck_in_a_Hard_Place_(feat._MC_Jabber)_Blue_Foundation,_MC_Jabber.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "jabber",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_jabber_muque.txt"
+    }
+  ]
+}
